@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class Login {
 	 
 	 
-	// step 1 To declare DM (Variable) globally
+	// step 1 To declare DM (Variable) globally master
 	
 	@FindBy(xpath="//a[@id='login-or-signup']") 
 	private WebElement loginlink;
