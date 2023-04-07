@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class Login {
-	
+	 
 	 
 	// step 1 To declare DM (Variable) globally
 	
